@@ -1,0 +1,121 @@
+{
+    "en": "Angličtina",
+    "cs": "čeština",
+    "header": "------",
+    "home": "Domů",
+    "choose": "Proč zrovna my",
+    "jobsOpen": "Volná pracovní místa",
+    "news": "Aktuality",
+    "contact": "Kontakt",
+    "aboutMarket": "-------------",
+    "aboutTitleBlack": "Náš marketplace propojuje kupující a prodávající",
+    "aboutTitleYellow": "z celého světa.",
+    "titleBlackPC": "Náš marketplace propojuje",
+    "titleYellowPC": "kupující a prodávající z celého světa.",
+    "manyText": "Vytváříme inovativní a bezpečné prostředí, které podporuje růst a úspěch našich prodejců a poskytuje kvalitní zákaznický servis. Jsme online tržištěm, kde se setkávají nabídky a poptávky a kde najdete jedinečný a spolehlivý způsob, jak obchodovat.",
+    "btnText": "Přejít na marketplace",
+    "whyToChooseBlock": "--------------",
+    "largeBase": "Hodně zákazníků",
+    "largeBaseText": "Umístěním svých produktů na náš marketplace získáte přístup k širokému a rozmanitému publiku potenciálních zákazníků, zvýšíte viditelnost své značky a prodejní potenciál",
+    "partnership": "Partnerství s nami ",
+    "partnershipText": "Nabzíme flexibilní možnosti partnerstv přizpůsobené vašim potřebám ",
+    "growth": "Růst ",
+    "growthText": "Růst spolu s námi. Naše plány na tozšření platformy jsou v souladu s vašimi cíli růstu firmy ",
+    "diversity": "Rozmanitost a interakce ",
+    "diversityText": "Naše platforma podporuje rozmanitost. Ukažte své jedinečné produkty a spojte se se zákazníky, které vaše nabídka zajímá ",
+    "join": "Vstupte do naší komunity ",
+    "joinText": " Staňte se součástí naš prosperující komunity výrobců a nakupujících. Spolupracujte, inovujte a uspěte společně ",
+    "everything": "Vše transparentně",
+    "everythingText": "Politika transparentnosti. Naše podmínky partnerství, včetně struktur poplatků a provizí, jsou jednoduché a spravedlivé ",
+    "convenience": "Vaše pohodlí ",
+    "convenienceText": "Partnerství s námi je pohodlné, protože můžete svou firmu přenést online, aniž byste museli vytvářet webové stránky a propagovat je",
+    "_dataProtection": "",
+    "protTitle": "ZÁSADY DŮVĚRNOSTI A OCHRANY OSOBNÍCH ÚDAJŮ PRO PRODÁVAJÍCÍ",
+    "prodIntrodaction": {
+        "title": "1. Úvod",
+        "desc": "Tyto Zásady důvěrnosti a ochrany osobních údajů představují náš závazek chránit důvěrnost a soukromí vašich informací jako prodejce na naší platformě Reli Group s.r.o. v souladu s obecným nařízením o ochraně osobních údajů (GDPR) a dalšími příslušnými zákony EU o ochraně osobních údajů. "
+    },
+    "definitions": {
+        "title": "2. Definice",
+        "confInfo": {
+            "title": "Důvěrné informace: ",
+            "desc": "Odkazuje na jakékoli neveřejné informace zveřejněné prodávajícími společnosti Reli Group s.r.o., které mají být považovány za důvěrné. To zahrnuje mimo jiné podrobnosti o produktu, cenové strategie, údaje o prodeji, informace o zákaznících a duševní vlastnictví."
+        },
+        "personalData": {
+            "title": "Osobní údaje: ",
+            "desc": "Odkazuje na jakékoli informace týkající se identifikované nebo identifikovatelné fyzické osoby, jak je definována v GDPR"
+        },
+        "gdpr": {
+            "learn": "Dozvědět se ",
+            "about": "více o GDPR ",
+            "otherText": "se dá na následujících webových stránkách třetích stran: GDPR: ",
+            "link": "www.gdpr.eu"
+        }
+    },
+    "confident": {
+        "title": "3. Povinnost mlčenlivosti",
+        "desc": "Jako prodejce na Reli Group s.r.o. souhlasíte s následujícími povinnostmi mlčenlivosti:",
+        "protections": {
+            "title": "a. Ochrana důvěrných informací: ",
+            "desc": "Přijmete vhodná opatření k ochraně všech důvěrných informací poskytnutých společností Reli Group s.r.o. před neoprávněným přístupem, použitím nebo zveřejněním."
+        },
+        "limited": {
+            "title": "b. Omezené použití důvěrných informací: ",
+            "desc": "Důvěrné informace smíte používat pouze pro účely podnikání na Reli Group s.r.o. a nesmíte je sdělovat žádné třetí straně bez předchozího výslovného souhlasu Reli Group s.r.o."
+        },
+        "handling": {
+            "title": "c. Nakládání s osobními údaji: ",
+            "desc": "Pokud zpracováváte osobní údaje v rámci svých aktivit na Reli Group s.r.o., musíte tak činit v souladu s GDPR a dalšími platnými zákony o ochraně osobních údajů. To zahrnuje zavedení vhodných technických a organizačních opatření k zajištění bezpečnosti a důvěrnosti osobních údajů."
+        }
+    },
+    "dataProcessing": {
+        "title": "4. Zpracování údajů",
+        "agreement": {
+            "title": "a. Smlouva o zpracování údajů: ",
+            "desc": "Používáním služby Reli Group s.r.o. berete na vědomí a souhlasíte s podmínkami naší Smlouvy o zpracování údajů, která upravuje zpracování osobních údajů jménem prodávajících. Tato dohoda vymezuje povinnosti společnosti Reli Group s.r.o. jako zpracovatele údajů a prodejců jako správců údajů podle GDPR."
+        },
+        "purpose": {
+            "title": "b. Účelová omezení: ",
+            "desc": "Osobní údaje budou zpracovávány pouze pro účely uvedené v naší Smlouvě o zpracování údajů nebo jiným způsobem povoleným platnými právními předpisy."
+        },
+        "dataTransfer": {
+            "title": "c. Přenosy údajů: ",
+            "desc": "pokud jsou osobní údaje předávány mimo Evropský hospodářský prostor (EHP), zajistíme, aby byla zavedena vhodná ochranná opatření na ochranu údajů v souladu s GDPR."
+        }
+    },
+    "exceptions": {
+        "title": "5. Výjimky",
+        "desc": "Povinnost mlčenlivosti a ochrany údajů se nevztahuje na informace, které:",
+        "list": {
+            "text1": "Je již veřejně dostupný bez zavinění prodávajícího.",
+            "text2": "jsou oprávněně získány od třetí strany bez jakékoli povinnosti mlčenlivosti.",
+            "text3": "Jsou nezávisle vyvinuty prodávajícím bez odkazu na důvěrné informace společnosti Reli Group s.r.o."
+        }
+    },
+    "enforcement": {
+        "title": "6. Prosazování",
+        "desc": "Porušení zásad důvěrnosti a ochrany osobních údajů může mít za následek pozastavení nebo ukončení vašeho prodejního účtu na Reli Group s.r.o., stejně jako právní kroky, pokud to bude považováno za nutné."
+    },
+    "governing": {
+        "title": "7. Rozhodné právo a jurisdikce",
+        "desc": "Tyto Zásady důvěrnosti a ochrany osobních údajů se řídí a vykládají v souladu s právem Evropské unie, zejména GDPR, a dalšími platnými zákony o ochraně osobních údajů. Veškeré spory vzniklé na základě těchto Zásad nebo v souvislosti s nimi budou podléhat výhradně soudům České republiky. "
+    },
+    "updates": {
+        "title": "8. Aktualizace zásad",
+        "desc": "Společnost Reli Group s.r.o. si vyhrazuje právo tyto zásady důvěrnosti a ochrany osobních údajů kdykoli aktualizovat nebo upravit. Prodávající budou informováni o všech změnách a pokračování v používání naší platformy představuje přijetí revidovaných podmínek."
+    },
+    "contactInfo": {
+        "title": "9. Kontaktní údaje",
+        "desc": "Máte-li jakékoli dotazy nebo obavy týkající se těchto Zásad důvěrnosti a ochrany osobních údajů, kontaktujte nás na adrese ",
+        "email": "support600.reli@gmail.com."
+    },
+    "sendingCommunication": {
+        "title": "10. Zasílání obchodních sdělení",
+        "desc": "Pro zasílání obchodních sdělení je nutný výslovný souhlas příjemce (zásada opt-in), nebo musí jít o vlastního zákazníka, kterému jsou zasílána za splnění podmínek § 7 odst. 3 zákona č. 480/2004 Sb.. Obchodní sdělení musí být jasně označeno, obsahovat identifikaci odesílatele a funkční odkaz pro odhlášení. Porušení těchto pravidel může vést k pokutám od Úřadu pro ochranu osobních údajů.",
+        "endText": "Pokračováním v používání Reli Group s.r.o. potvrzujete, že jste si přečetli a souhlasíte s tím, že budete dodržovat tyto Zásady důvěrnosti a ochrany osobních údajů. "
+    },
+    "whatsappText": {
+        "text1": "Pouze pro dotazy prodejců.",
+        "text2": "V případě zájmu o prodej na platformě Reli nás prosím kontaktujte zde."
+    }
+}

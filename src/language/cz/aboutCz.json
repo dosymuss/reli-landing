@@ -1,0 +1,78 @@
+{
+    "mainTitle": "Korporátní profil - Reli Group s.r.o.",
+    "mainDesc": "Společnost s průmyslovými kořeny - Marketplace postavený na operační excelenci.",
+    "corporateBlock": {
+        "title": "Firemní background",
+        "text1": "Společnost Reli Group s.r.o. se sídlem v České republice.",
+        "text2": "Byla původně založena jako distributor fotovoltaických panelů a souvisejících energetických řešení.",
+        "text3": "V rámci tohoto působení si podnik vybudoval významné kompetence v oblasti:",
+        "list": {
+            "list1": "řízení dodavatelských a distribučních procesů",
+            "list2": "operativního plánování, logistiky a koordinace",
+            "list3": "uplatňování kontrolních a kvalitativních standardů",
+            "list4": "regulatorní, smluvní a procesní compliance"
+        },
+        "text4": "Díky konzistentnímu výkonu a dodržování technických i obchodních norem si společnost vybudovala pozici důvěryhodného a stabilního partnera v rámci evropského sektoru obnovitelných zdrojů."
+    },
+    "strategicBlock": {
+        "title": "Strategický vývoj a transformace",
+        "text1": "Na základě dlouhodobé strategické analýzy tržního prostředí identifikovala společnost Reli Group s.r.o. výrazné příležitosti v oblasti digitální ekonomiky.",
+        "text2": "Dynamický růst e-commerce, spolu s rostoucí poptávkou po transparentních a profesionálně řízených online prodejních platformách, odhalil v evropském prostoru výraznou tržní mezeru.",
+        "text3": "V návaznosti na tyto zjištěné skutečnosti zahájila společnost řízenou transformaci z úzce specializovaného distributora na technologicky orientovaný podnik se zaměřením na infrastrukturu digitálních tržišť.",
+        "text4": "Výsledkem tohoto procesu bylo vytvoření platformy Reli.one ",
+        "email": "(www.reli.one)",
+        "otherText4": ", vícekategoriálního online marketplace zaměřeného na podporu podniků, značek a poskytovatelů služeb v jejich digitální expanzi."
+    },
+    "valueBlock": {
+        "title": "Hodnota pro prodejce",
+        "text1": "Prodejcům přináší platforma Reli.one zejména:",
+        "text2": "Platforma je navržena pro udržitelný růst a stabilní dlouhodobé podnikání všech zapojených prodejců.",
+        "list": {
+            "list1": "profesionálně řízené digitální prostředí, které vychází z průmyslových procesních standardů",
+            "list2": "rozšíření obchodního dosahu v rámci evropského trhu",
+            "list3": "technické nástroje pro optimalizaci produktů, analytiku a monitoring výkonnosti",
+            "list4": "transparentní a bezpečné finanční vyrovnání prostřednictvím důvěryhodných platebních partnerů",
+            "list5": "responsivní podporu, která odpovídá úrovni B2C / B2B služeb"
+        }
+    },
+    "visionBlock": {
+        "title": "Firemní vize",
+        "text1": "Cílem společnosti Reli Group s.r.o. je vybudovat z Reli.one významné evropské digitální tržiště charakterizované:",
+        "text2": "Naším záměrem je vytvořit obchodní prostředí, které odpovídá korporátním standardům, reflektuje hodnoty transparentnosti a přináší dlouhodobou jistotu.",
+        "list": {
+            "list1": "vysokou úrovní operativní excelence",
+            "list2": "pokročilou technologickou infrastrukturou",
+            "list3": "důsledným dodržováním regulatorních požadavků",
+            "list4": "a stabilními dlouhodobými partnerstvími s prodejci."
+        }
+    },
+    "reslexpBlock": {
+        "title": "Korporátní positioning",
+        "text1": "Reli.one je digitální marketplace vytvořené společností s reálnými provozními zkušenostmi, nikoli spekulativním startupem.",
+        "text2": "Naše praxe v oblasti energetické distribuce formuje přístup ke kvalitě, souladu s předpisy a provozní spolehlivosti.",
+        "text3": "Prodejci tak působí v rámci stabilního a profesionálně řízeného ekosystému."
+    },
+    "adavantageBlock": {
+        "title": "Charakteristika marketplace Reli.one",
+        "text1": "Reli.one funguje jako evropská digitální tržiště poskytující strukturované, profesionální a transparentní prostředí pro prodejce.",
+        "text2": "Platforma je založena na zásadách vycházejících z korporátního a průmyslového zázemí společnosti:",
+        "blocks": {
+            "block1": {
+                "title": "Operativní integrita",
+                "desc": "Veškeré procesy, systémová architektura i partnerské rámce jsou navrženy s důrazem na přesnost, konzistenci a vysoký standard korporátního řízení."
+            },
+            "block2": {
+                "title": "Transparentnost a předvídatelnost",
+                "desc": "Poplatková struktura, provozní podmínky i procedurální požadavky jsou jednoznačně definovány a dlouhodobě stabilní, aby prodejci mohli plánovat své aktivity s plnou znalostí podmínek."
+            },
+            "block3": {
+                "title": "Technická infrastruktura",
+                "desc": "Marketplace využívá zabezpečené platební systémy, automatizované procesy zpracování objednávek, analytické moduly a datové řešení vyhovující evropským předpisům."
+            },
+            "block4": {
+                "title": "Partnerský model pro prodejce",
+                "desc": "Reli.one buduje strukturované, oboustranně výhodné vztahy s prodejci, kterým poskytuje operativní podporu, asistenci při práci s platformou a výkonnostní reporting."
+            }
+        }
+    }
+}

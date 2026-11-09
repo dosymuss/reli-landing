@@ -1,0 +1,59 @@
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import App from './App.jsx';
+import './index.css';
+import { I18nextProvider } from "react-i18next"
+import i18n from './language/i18next.js';
+import { createBrowserRouter, RouterProvider } from "react-router-dom"
+import ForSeller from './pages/ForSeller/ForSeller.jsx';
+import AboutPage from './pages/AboutPage/AboutPage.jsx';
+import ContactPage from './pages/ContactPage/ContactPage.jsx';
+import PricingAndCommision from './pages/PricingAndCommission/PricingAndCommision.jsx';
+import TermsPage from './pages/TermsPage/TermsPage.jsx';
+import PrivacyPage from './pages/PrivacyPage/PrivacyPage.jsx';
+import NewTermPage from './pages/NewTermPage/NewTermPage.jsx';
+
+
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <App />
+  },
+  {
+    path: "/for-sell",
+    element: <ForSeller />
+  },
+  {
+    path: "/about",
+    element: <AboutPage />
+  },
+  {
+    path: "/contact",
+    element: <ContactPage />
+  },
+  {
+    path: "/pricing-commission",
+    element: <PricingAndCommision />
+  },
+  {
+    path: '/terms',
+    element: <TermsPage />
+  },
+  {
+    path: "/policy",
+    element: <PrivacyPage />
+  },
+  {
+    path: '/new-term',
+    element: <NewTermPage />
+  }
+])
+
+
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <I18nextProvider i18n={i18n}>
+    <React.StrictMode>
+      <RouterProvider router={router} />
+    </React.StrictMode>
+  </I18nextProvider>,
+);

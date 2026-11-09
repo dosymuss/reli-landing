@@ -1,0 +1,121 @@
+{
+    "en": "English",
+    "cs": "Czech",
+    "hedaer": "-----",
+    "home": "Home",
+    "choose": "Why to choose us",
+    "jobsOpen": "Job openings",
+    "news": "News",
+    "contact": "Contact details",
+    "aboutMarket": "-----------",
+    "aboutTitleBlack": "Our marketplace connects buyers and sellers",
+    "aboutTitleYellow": "from around the world.",
+    "titleBlackPC": "Our marketplace connects",
+    "titleYellowPC": "buyers and sellers from around the world.",
+    "manyText": "We create an innovative and secure environment that fosters the growth and success of our sellers while providing high-quality customer service. We are an online marketplace where supply and demand meet, offering a unique and reliable way to trade",
+    "btnText": "Go to marketplace",
+    "whyToChooseBlock": "-----cards------",
+    "largeBase": "A large customer base",
+    "largeBaseText": "By listing your products on our marketplace, you gain access to a wide and diverse audience of potential customers, increasing your brand visibility and sales potential",
+    "partnership": "Partnership with us",
+    "partnershipText": "We offer flexible partnership options tailored to your needs ",
+    "growth": "Growth ",
+    "growthText": "Grow with us! Our plans for expanding the platform are aligned with your business growth goals. ",
+    "diversity": "Diversity and interaction ",
+    "diversityText": "Our platform promotes diversity. Showcase your unique products and connect with customers who are interested in what you offer ",
+    "join": "Join our community ",
+    "joinText": "Become a part of our thriving community of manufacturers and buyers. Collaborate, innovate, and succeed together",
+    "everything": "Everything with transparency",
+    "everythingText": "Transparency policy. Our partnership terms, including fee and commission structures, are simple and fair",
+    "convenience": "Your convenience ",
+    "convenienceText": "Partnering with us is convenient, as you can take your business online without the need to create and promote a website",
+    "_dataProtection": "",
+    "protTitle": "CONFIDENTIALITY AND DATA PROTECTION POLICY FOR SELLERS",
+    "prodIntrodaction": {
+        "title": "1. Introduction",
+        "desc": "This Confidentiality and Data Protection Policy outlines our commitment to protecting the confidentiality and privacy of your information as a seller on Reli Group s.r.o. (reli.one platform), in compliance with the General Data Protection Regulations (GDPR) and other relevant EU data protection laws. "
+    },
+    "definitions": {
+        "title": "2. Definitions",
+        "confInfo": {
+            "title": "Confidential Information: ",
+            "desc": "Refers to any non-public information disclosure by sellers to Reli Group s.r.o. that is intended to be kept confidential. This includes, but is not limited to, product details, pricing strategies, sales data, customer information, and intellectual property."
+        },
+        "personalData": {
+            "title": "Personal Data:",
+            "desc": " Refers to any information relating to an identified or identifiable natural person, as defined in the GDPR"
+        },
+        "gdpr": {
+            "learn": "Learn ",
+            "about": "more about GDPR ",
+            "otherText": "on the following third-party website: GDPR: ",
+            "link": "www.gdpr.eu"
+        }
+    },
+    "confident": {
+        "title": "3. Confidentiality Obligations",
+        "desc": "As a seller on Reli Group s.r.o., you agree to the following confidentiality obligations:",
+        "protections": {
+            "title": "a. Protections of Confidential Information: ",
+            "desc": "You shall take appropriate measures to safeguard any confidential information provided by Reli Group s.r.o. from unauthorized access, use, or disclosure. "
+        },
+        "limited": {
+            "title": "b. Limited Use of Confidential Information: ",
+            "desc": "You shall only use confidential information for the purposes of conducting business on Reli Group s.r.o. and shall not disclose it to any third party without prior explicit consent from Reli Group s.r.o."
+        },
+        "handling": {
+            "title": "c. Handling Personal Data: ",
+            "desc": "If you process personal data in the course of your activities on Reli Group s.r.o., you shall do so in compliance with the GDPR and other applicable data protection laws. This includes implementing appropriate technical and organizational measures to ensure the security and confidentiality of personal data."
+        }
+    },
+    "dataProcessing": {
+        "title": "4. Data Processing",
+        "agreement": {
+            "title": "a. Data Processing Agreement: ",
+            "desc": "By using Reli Group s.r.o., you acknowledge and agree to the terms of our Data Processing Agreement, which governs the processing of personal data on behalf of sellers. This agreement outlines the responsibilities of Reli Group s.r.o. as a data processor and sellers as data controllers under the GDPR."
+        },
+        "purpose": {
+            "title": "b. Purpose Limitations: ",
+            "desc": "Personal data shall only be processed for the purpose specified in our Data Processing Agreement or as otherwise authorized by applicable law."
+        },
+        "dataTransfer": {
+            "title": "c. Data Transfers: ",
+            "desc": "if personal data is transferred outside the European Economic Area (EEA), we shall ensure that appropriate safeguards are in place to protect the data in accordance with the GDPR."
+        }
+    },
+    "exceptions": {
+        "title": "5. Exceptions",
+        "desc": "The obligations of confidentiality and data protection shall not apply to information that:",
+        "list": {
+            "text1": "Is already publicly available through no fault of the seller.",
+            "text2": "Is rightfully obtained from a third party without any obligation of confidentiality.",
+            "text3": "Is independently developed by the seller without reference to Reli Group s.r.o. confidential information."
+        }
+    },
+    "enforcement": {
+        "title": "6. Enforcement",
+        "desc": "Violation of the Confidentiality and Data Protection Policy may result in suspension or termination of your seller account on Reli Group s.r.o., as well as legal action if deemed necessary."
+    },
+    "governing": {
+        "title": "7. Governing Law and Jurisdiction",
+        "desc": "This Confidentiality and Data Protection Policy shall be governed by and construed in accordance with the law of the European Union, particularly the GDPR, and other applicable data protection laws. Any disputes arising under or in connection with the Policy shall be subject to the exclusive of the courts of the Czech Republic."
+    },
+    "updates": {
+        "title": "8. Updates to the Policy",
+        "desc": "Reli Group s.r.o. reserves the right to update or modify this Confidentiality and Data Protection Policy at any time. Sellers will be notified of any changes, and continued use of our platform constitutes acceptance of the revised terms."
+    },
+    "contactInfo": {
+        "title": "9. Contact Information",
+        "desc": "If you have any questions or concerns regarding this Confidentiality and Data Protection Policy, please contact us at ",
+        "email": "support600.reli@gmail.com."
+    },
+    "sendingCommunication":{
+        "title":"10. Sending commercial communications",
+        "desc":"The recipient's explicit consent is required for the sending of commercial communications (optin principle), or it must be the recipient's own customer, to whom they are sent under the conditions of Section 7 (1) of the Act. 3 of Act No. 480/2004 Coll.. The commercial communication must be clearly marked, contain the sender's identification and a working unsubscribe link. Violation of these rules may lead to fines from the Office for Personal Data Protection.",
+        "endText":"By continuing to use Reli Group s.r.o., you acknowledge that you have read understood, and agree to abide by this Confidentiality and Data Protection Policy. "
+    },
+    "whatsappText":{
+        "text1":"Seller inquiries only.",
+        "text2":"Interested in selling on Reli? Contact us here."
+    }
+}

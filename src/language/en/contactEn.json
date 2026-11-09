@@ -1,0 +1,51 @@
+{
+    "contact_page": {
+        "title": "Contact",
+        "subtitle": "Get in touch with Reli Group s.r.o.",
+        "contact_details": {
+            "title": "Contact Details",
+            "phone": {
+                "label": "Phone",
+                "value": "+420 797 837 856"
+            },
+            "email": {
+                "label": "Email",
+                "value": "info@reli.one"
+            }
+        },
+        "company_details": {
+            "title": "Company Details",
+            "company_name": "Company Name: ",
+            "company_name_text": "Reli Group s.r.o.",
+            "company_id": "Company ID: ",
+            "company_id_text": "28003896",
+            "vat": "VAT: ",
+            "vat_text": "CZ28003896",
+            "address": {
+                "title": "Address: ",
+                "text1": "Na Lysinách 551/34",
+                "text2": "Prague 4 - Hodkovičky",
+                "text3": "147 00, Czech Republic"
+            }
+        },
+        "business_hours": {
+            "title": "Business Hours",
+            "description": "Our team is available to assist you during business hours.",
+            "monday_friday": "Monday - Friday:",
+            "monday_friday_time": "9:00 - 17:00 (CET)",
+            "saturday_sunday": "Saturday - Sunday:",
+            "saturday_sunday_time": "Closed"
+        },
+        "banking_details": {
+            "title": "Banking Details",
+            "bank": "Bank: ",
+            "bank_desc": "Raiffeisen Bank",
+            "iban": "IBAN: ",
+            "iban_desc": "CZ945500000000050301074",
+            "swift": "SWIFT (BIC): ",
+            "swift_desc": "RZBCCZPP",
+            "account_number": "Account Number: ",
+            "account_number_desc": "500301074/5500"
+        }
+    }
+}
